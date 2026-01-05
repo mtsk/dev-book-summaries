@@ -14,8 +14,6 @@ Martin Fowler: Refactoring
 * **Reducing technical debt** – keep code understandable and flexible to lower long-term maintenance costs.
 * **Enabling change** – make future features easier and cheaper by keeping the codebase clean and adaptable.
 
----
-
 ## Code Smells
 Source: 'Refactoring' book and https://blog.codinghorror.com/code-smells/
 
