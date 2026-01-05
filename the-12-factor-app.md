@@ -1,4 +1,6 @@
-Source: https://www.12factor.net/
+https://www.12factor.net/
+
+---
 
 **I. Codebase**
 → One codebase tracked in revision control, many deploys.

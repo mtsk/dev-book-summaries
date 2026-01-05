@@ -1,6 +1,8 @@
 Michael T. Nygard: Release It!
 
-### **Main Themes**
+---
+
+## Main Themes
 * **Failures are inevitable**—hardware faults, network blips, and unexpected traffic happen.
 * You *can’t prevent every failure*, but you *can contain and survive them*.
 * Patterns like timeouts, circuit breakers, and bulkheads **stop cracks from propagating** through your system architecture.
@@ -8,7 +10,7 @@ Michael T. Nygard: Release It!
 
 ---
 
-### **Stability Antipatterns (Problems / Failure Patterns)**
+## Stability Antipatterns (Problems / Failure Patterns)
 
 - **Integration Points**
 Any dependency on external services, databases, or protocols—each one can fail or hang.
@@ -51,7 +53,7 @@ Unexpectedly large results or operations can exhaust memory or capacity.
 
 ---
 
-### **Stability Patterns (Resilience Solutions)**
+## Stability Patterns (Resilience Solutions)
 
 - **Timeouts**
 Don’t wait forever on external calls or resource locks—fail them fast so blocked threads can recover and not consume system capacity.

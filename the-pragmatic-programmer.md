@@ -1,12 +1,16 @@
 David Thomas, Andrew Hunt: The Pragmatic Programmer, 20th Anniversary Edition
 
+---
+
 > *Be adaptable, be responsible, and favor simple, well-communicated solutions that can change.*  
 > *The Pragmatic Programmer is about making small, responsible, adaptable decisions every day that compound into high-quality software.*
+
+---
 
 ### Mindset & Responsibility
 
 **Take ownership of your code, your mistakes, and your career**
-→ A production bug is traced to your code; you investigate, fix it, write a test, and document the cause instead of blaming requirements or ops.
+→ A production bug is traced to your code; you investigate, fix it, write a test, and document the cause instead of blaming requirements or ops.  
 
 **Don’t tolerate broken windows**
 → You notice a misleading variable name and a flaky test; you clean both up while working on an unrelated feature.
