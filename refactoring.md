@@ -61,7 +61,7 @@ Source: 'Refactoring' book and https://blog.codinghorror.com/code-smells/
 **Temporary Field**
 → Watch out for objects that contain a lot of optional or unnecessary fields. If you’re passing an object as a parameter to a method, make sure that you’re using all of it and not cherry-picking single fields.
 
-#### Code Smells Between Classes:
+### Code Smells Between Classes:
 
 **Alternative Classes with Different Interfaces**
 → If two classes are similar on the inside, but different on the outside, perhaps they can be modified to share a common interface.
