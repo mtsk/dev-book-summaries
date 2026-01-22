@@ -37,14 +37,11 @@ Robert C. Martin: Clean Code
 **Emergence**
 → Good design emerges from tests, clarity, simplicity, and no duplication.  
 **Concurrency**
-→ Separate concurrent concerns; minimize shared state.
-
+→ Separate concurrent concerns; minimize shared state.  
 **Refinement**
-→ Clean code comes from continuous refactoring, not upfront perfection.
-
+→ Clean code comes from continuous refactoring, not upfront perfection.  
 **Case Studies**
-→ Real systems improve through disciplined cleanup.
-
+→ Real systems improve through disciplined cleanup.  
 **Smells & Heuristics**
 → Duplication, size, and complexity are warning signs—use judgment.
 
