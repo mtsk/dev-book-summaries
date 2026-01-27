@@ -60,7 +60,7 @@ Event-Driven Architecture uses **domain events** to communicate state changes as
 **Best suited for:** Highly decoupled, reactive, or distributed systems.  
 **Key risk:** Debugging difficulty and eventual consistency challenges.
 
-### 7. Data Fabric / Big Data Architecture
+### Data Fabric / Big Data Architecture
 Data Fabric architecture integrates multiple data sources, processing pipelines, and analytical models into a unified data platform. It supports large-scale data ingestion, transformation, and analysis across the organization. In DDD, this style is typically **adjacent** to core domain systems, serving reporting, analytics, or machine-learning use cases rather than transactional domains.
 
 **Best suited for:** Analytics-heavy and data-driven systems.  
