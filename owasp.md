@@ -22,7 +22,7 @@ Fundamental design flaws where security isn’t built into architecture and work
 Weak or broken authentication mechanisms — e.g., poor session management, predictable tokens — that let attackers impersonate users.
 8. **A08:2025 – Software or Data Integrity Failures**  
 Failures to guarantee that code and data haven’t been tampered with — e.g., unsigned updates or unverified inputs leading to unauthorized changes.
-9. **A09:2025 – Logging and Alerting Failures**  
+9. **A09:2025 – Security Logging and Alerting Failures**  
 Insufficient or ineffective security logging and alerting, making it hard to detect, investigate, or respond to incidents.
 10. **A10:2025 – Mishandling of Exceptional Conditions**  
 New in 2025: improper handling of error paths, edge cases, and system exceptions that can lead to logic flaws or “fail-open” vulnerabilities.
