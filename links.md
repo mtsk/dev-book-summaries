@@ -14,6 +14,6 @@ https://github.com/LuckyPennySoftware/AutoMapper?tab=readme-ov-file
 Simple, unambitious mediator implementation in .NET   
 https://github.com/LuckyPennySoftware/MediatR
 
-### Coding-Styles examples
+### Coding-Style examples
 https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md  
 https://github.com/dotnet/winforms/blob/main/docs/coding-style.md
