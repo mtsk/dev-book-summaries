@@ -1,3 +1,5 @@
+## Libraries
+
 ### moq 
 The most popular and friendly mocking framework for .NET  
 https://github.com/devlooped/moq
@@ -13,6 +15,8 @@ https://github.com/LuckyPennySoftware/AutoMapper?tab=readme-ov-file
 ### MediatR
 Simple, unambitious mediator implementation in .NET   
 https://github.com/LuckyPennySoftware/MediatR
+
+## Misc
 
 ### Coding-Style examples
 https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md  
